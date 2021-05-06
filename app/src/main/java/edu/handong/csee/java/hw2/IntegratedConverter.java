@@ -10,6 +10,7 @@ import edu.handong.csee.java.hw2.converters.*; // You will learn the import stat
 public class IntegratedConverter {
 
     private double fromValue;
+    
 /**
  * main function is a starting point of program execution.
  * @param args 3 strings in order value you want to convert, original measure of value, and meausure you want to get

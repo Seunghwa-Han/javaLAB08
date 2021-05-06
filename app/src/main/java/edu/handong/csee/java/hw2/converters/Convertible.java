@@ -1,4 +1,5 @@
 package edu.handong.csee.java.hw2.converters;
+
 /**
  * A interface of Convertible provides setter, getter and convert function.
  */
